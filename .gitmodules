@@ -1,0 +1,3 @@
+[submodule "autoswap-foundry/lib/v3-periphery"]
+	path = autoswap-foundry/lib/v3-periphery
+	url = https://github.com/Uniswap/v3-periphery
