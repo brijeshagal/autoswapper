@@ -4,3 +4,6 @@
 [submodule "autoswap-foundry/lib/v3-core"]
 	path = autoswap-foundry/lib/v3-core
 	url = https://github.com/Uniswap/v3-core
+[submodule "autoswap-foundry/lib/openzeppelin-contracts"]
+	path = autoswap-foundry/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
