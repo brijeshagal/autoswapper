@@ -8,6 +8,7 @@ contract AutoSwapper {
         uint256 receiveAmount,
         address sendToken
     ) {
+        uint256 inputAmount = UniswapRouterV3().exactOutput();
         _;
     }
 }
